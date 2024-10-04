@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 
 namespace Nasa_Space_Apps.DataAccess
 {
-    public class Data
+    public class Data//store the data in database 
     {
         void Connect()
         {
