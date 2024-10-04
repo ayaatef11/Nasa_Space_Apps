@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "virtual_web_view/1.0.0": {
+        "runtime": {
+          "virtual_web_view.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "virtual_web_view/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

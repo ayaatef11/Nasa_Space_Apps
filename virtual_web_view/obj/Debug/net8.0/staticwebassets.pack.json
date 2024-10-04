@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\virtual_web_view.bundle.scp.css",
+      "PackagePath": "staticwebassets\\virtual_web_view.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\bootstrap-datetimepicker.css",
+      "PackagePath": "staticwebassets\\bootstrap-datetimepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\bootstrap-toggle.css",
+      "PackagePath": "staticwebassets\\bootstrap-toggle.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\ariel.jpg",
+      "PackagePath": "staticwebassets\\img\\ariel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\asteroid.jpg",
+      "PackagePath": "staticwebassets\\img\\asteroid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\callisto.jpg",
+      "PackagePath": "staticwebassets\\img\\callisto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\circle.png",
+      "PackagePath": "staticwebassets\\img\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\controls.png",
+      "PackagePath": "staticwebassets\\img\\controls.png"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\datetime.png",
+      "PackagePath": "staticwebassets\\img\\datetime.png"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\deimos.jpg",
+      "PackagePath": "staticwebassets\\img\\deimos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\dione.jpg",
+      "PackagePath": "staticwebassets\\img\\dione.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\earth.jpg",
+      "PackagePath": "staticwebassets\\img\\earth.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\enceladus.jpg",
+      "PackagePath": "staticwebassets\\img\\enceladus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\europa.jpg",
+      "PackagePath": "staticwebassets\\img\\europa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\extras.png",
+      "PackagePath": "staticwebassets\\img\\extras.png"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\ganymede.jpg",
+      "PackagePath": "staticwebassets\\img\\ganymede.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\hyperion.jpg",
+      "PackagePath": "staticwebassets\\img\\hyperion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\iapetus.jpg",
+      "PackagePath": "staticwebassets\\img\\iapetus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\interval.png",
+      "PackagePath": "staticwebassets\\img\\interval.png"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\io.jpg",
+      "PackagePath": "staticwebassets\\img\\io.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\jupiter.jpg",
+      "PackagePath": "staticwebassets\\img\\jupiter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\mars.jpg",
+      "PackagePath": "staticwebassets\\img\\mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\mercury.jpg",
+      "PackagePath": "staticwebassets\\img\\mercury.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\mimas.jpg",
+      "PackagePath": "staticwebassets\\img\\mimas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\miranda.jpg",
+      "PackagePath": "staticwebassets\\img\\miranda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\moon.jpg",
+      "PackagePath": "staticwebassets\\img\\moon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\neptune.jpg",
+      "PackagePath": "staticwebassets\\img\\neptune.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\oberon.jpg",
+      "PackagePath": "staticwebassets\\img\\oberon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\phobos.jpg",
+      "PackagePath": "staticwebassets\\img\\phobos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\rhea.jpg",
+      "PackagePath": "staticwebassets\\img\\rhea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\saturn-rings.png",
+      "PackagePath": "staticwebassets\\img\\saturn-rings.png"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\saturn.jpg",
+      "PackagePath": "staticwebassets\\img\\saturn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\sun.jpg",
+      "PackagePath": "staticwebassets\\img\\sun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\tethys.jpg",
+      "PackagePath": "staticwebassets\\img\\tethys.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\titan.jpg",
+      "PackagePath": "staticwebassets\\img\\titan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\titania.jpg",
+      "PackagePath": "staticwebassets\\img\\titania.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\triton.jpg",
+      "PackagePath": "staticwebassets\\img\\triton.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\umbriel.jpg",
+      "PackagePath": "staticwebassets\\img\\umbriel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\uranus-rings.png",
+      "PackagePath": "staticwebassets\\img\\uranus-rings.png"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\uranus.jpg",
+      "PackagePath": "staticwebassets\\img\\uranus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\img\\venus.jpg",
+      "PackagePath": "staticwebassets\\img\\venus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\include.js",
+      "PackagePath": "staticwebassets\\include.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\majorbodies.json",
+      "PackagePath": "staticwebassets\\majorbodies.json"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\orbit.html",
+      "PackagePath": "staticwebassets\\orbit.html"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\planets.js",
+      "PackagePath": "staticwebassets\\planets.js"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\wwwroot\\ui.js",
+      "PackagePath": "staticwebassets\\ui.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.virtual_web_view.props",
+      "PackagePath": "build\\virtual_web_view.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.virtual_web_view.props",
+      "PackagePath": "buildMultiTargeting\\virtual_web_view.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.virtual_web_view.props",
+      "PackagePath": "buildTransitive\\virtual_web_view.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.virtual_web_view.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

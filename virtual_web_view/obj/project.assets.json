@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtua_web_view\\virtual_web_view.csproj",
+      "projectUniqueName": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\virtual_web_view.csproj",
       "projectName": "virtual_web_view",
-      "projectPath": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtua_web_view\\virtual_web_view.csproj",
+      "projectPath": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\virtual_web_view.csproj",
       "packagesPath": "C:\\Users\\Aya Atef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtua_web_view\\obj\\",
+      "outputPath": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aya Atef\\AppData\\Roaming\\NuGet\\NuGet.Config",

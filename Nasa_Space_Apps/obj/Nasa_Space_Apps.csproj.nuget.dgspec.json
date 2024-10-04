@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\virtual_web_view.csproj": {}
+    "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\Nasa_Space_Apps\\Nasa_Space_Apps.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\virtual_web_view.csproj": {
+    "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\Nasa_Space_Apps\\Nasa_Space_Apps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\virtual_web_view.csproj",
-        "projectName": "virtual_web_view",
-        "projectPath": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\virtual_web_view.csproj",
+        "projectUniqueName": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\Nasa_Space_Apps\\Nasa_Space_Apps.csproj",
+        "projectName": "Nasa_Space_Apps",
+        "projectPath": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\Nasa_Space_Apps\\Nasa_Space_Apps.csproj",
         "packagesPath": "C:\\Users\\Aya Atef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\virtual_web_view\\obj\\",
+        "outputPath": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\Nasa_Space_Apps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aya Atef\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

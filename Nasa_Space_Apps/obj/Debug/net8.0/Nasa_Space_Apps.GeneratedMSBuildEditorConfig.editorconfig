@@ -7,41 +7,41 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = virtual_web_view
-build_property.RootNamespace = virtual_web_view
-build_property.ProjectDir = C:\Users\Aya Atef\Source\Repos\Nasa_Space_Apps\virtual_web_view\
+build_property.RootNamespace = Nasa_Space_Apps
+build_property.RootNamespace = Nasa_Space_Apps
+build_property.ProjectDir = C:\Users\Aya Atef\Source\Repos\Nasa_Space_Apps\Nasa_Space_Apps\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Aya Atef\Source\Repos\Nasa_Space_Apps\virtual_web_view
+build_property.MSBuildProjectDirectory = C:\Users\Aya Atef\Source\Repos\Nasa_Space_Apps\Nasa_Space_Apps
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/virtual_web_view/Views/Home/Index.cshtml]
+[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/Nasa_Space_Apps/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/virtual_web_view/Views/Home/Privacy.cshtml]
+[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/Nasa_Space_Apps/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/virtual_web_view/Views/Shared/Error.cshtml]
+[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/Nasa_Space_Apps/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/virtual_web_view/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/Nasa_Space_Apps/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/virtual_web_view/Views/_ViewImports.cshtml]
+[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/Nasa_Space_Apps/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/virtual_web_view/Views/_ViewStart.cshtml]
+[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/Nasa_Space_Apps/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/virtual_web_view/Views/Shared/_Layout.cshtml]
+[C:/Users/Aya Atef/Source/Repos/Nasa_Space_Apps/Nasa_Space_Apps/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-fnegz55w7c
+build_metadata.AdditionalFiles.CssScope = b-4kd7zwr1xz

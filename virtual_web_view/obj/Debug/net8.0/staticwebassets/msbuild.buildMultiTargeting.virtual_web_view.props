@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\virtual_web_view.props" />
+</Project>
