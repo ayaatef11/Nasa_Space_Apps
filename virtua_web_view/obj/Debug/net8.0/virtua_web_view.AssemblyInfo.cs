@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("virtua_web_view")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+407aa398774169734e6abfc52b220d59097c106e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ebe8a3ff75eefbf924400ee2e25ac051f730f3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("virtua_web_view")]
 [assembly: System.Reflection.AssemblyTitleAttribute("virtua_web_view")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

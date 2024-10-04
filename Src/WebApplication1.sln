@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nasa_space_App", "Nasa_space_App.csproj", "{5E21180C-68CB-4295-9365-7D595DA02962}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "virtua_web_view", "..\virtua_web_view\virtua_web_view.csproj", "{78B6FED5-0CA7-4BB2-A6F9-3414F905E56A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "virtual_web_view", "..\virtua_web_view\virtual_web_view.csproj", "{78B6FED5-0CA7-4BB2-A6F9-3414F905E56A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
