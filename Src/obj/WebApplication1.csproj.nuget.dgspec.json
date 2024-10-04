@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aya Atef\\Source\\Repos\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\Src\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aya Atef\\Source\\Repos\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\Src\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aya Atef\\Source\\Repos\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\Src\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\Aya Atef\\Source\\Repos\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\Src\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Aya Atef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aya Atef\\Source\\Repos\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\Aya Atef\\Source\\Repos\\Nasa_Space_Apps\\Src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aya Atef\\AppData\\Roaming\\NuGet\\NuGet.Config",
