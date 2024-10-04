@@ -29,9 +29,8 @@ namespace Nasa_Space_Apps.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
-        //display the planet information based on its name
-        //search based on paramters
-        //display the number of planets depend on distance and diameter
+       
+       
         /*@model List<Planet>
 
     

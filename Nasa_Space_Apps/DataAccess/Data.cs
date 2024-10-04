@@ -6,9 +6,10 @@ namespace Nasa_Space_Apps.DataAccess
 {
     public class Data//store the data in database 
     {
-        void Connect()
+       public static  string connectionString = "Server=.;Database=Majorbodies;integrated security=true;TrustServerCertificate=true;MultipleActiveResultSets=true";
+
+       public  void Connect()
         {
-            string connectionString = "Server=.;Database=Majorbodies;integrated security=true;TrustServerCertificate=true;MultipleActiveResultSets=true";
 
             // Deserialize the JSON into C# objects
             string jsonFilePath = "C:\\Users\\Aya Atef\\Source\\Repos\\dataset\\majorbodies.json";
